@@ -1,0 +1,149 @@
+FIAPOS - Plataforma Marketplace de venda de Produtos Artesanais
+
+1. Visão geral da empresa
+
+A FIAPOS é uma plataforma digital especializada em produtos artesanais, funcionando como marketplace entre clientes e artesãos. A plataforma realiza o gerenciamento de vendas de produtos artesanais voltados a práticas como crochê, tricô, costura, bordado, feltragem, entre outras técnicas. Ela conecta clientes a artesãos cadastrados no sistema e permite a venda de produtos prontos, a produção de peças sob encomenda e a prestação de serviços de reparo.
+
+Os produtos expostos dependem da produção dos artistas presentes na plataforma e podem incluir roupas, acessórios, bolsas, pelúcias, artigos para casa e muitos outros produtos.
+
+2. Serviços fornecidos
+
+Venda de produtos finalizados
+
+A FIAPOS permite a venda de produtos finalizados expostos na vitrine virtual dos artesãos. Por exemplo, a Loja da Maria pode disponibilizar uma bolsa de crochê azul por R$ 100,00.
+
+Encomenda a partir de moldes do artesão
+
+O cliente pode encomendar produtos baseados nos moldes disponibilizados pelo próprio artesão. Quando a receita ou o modelo permitir customização, o cliente deve informar as características desejadas, como cores, medidas, materiais, entre outras. Por exemplo, a Loja da Maria pode divulgar a produção de bolsas acompanhada de imagens de modelos que consegue executar, permitindo que o cliente escolha o modelo do anúncio “X”  na cor rosa.
+
+Encomenda por proposta ou por ideia
+
+Clientes podem divulgar na plataforma algum produto que idealizaram, e a FIAPOS encontra artesãos aptos a executar o pedido. A venda somente prossegue quando o cliente encontra um artesão que aceite a proposta. Por exemplo, a cliente Ana pode utilizar o sistema de busca por ideia da FIAPOS para solicitar: “Gostaria de uma boneca inspirada na Princesa Tiana, parecida com esta foto, com 25 cm de altura”. A plataforma realiza a seleção de artistas recomendados baseando-se nas técnicas descritas e permite que a proposta seja encaminhada a artesãos compatíveis. A continuidade depende da aceitação de algum artesão.
+
+Venda de moldes e receitas
+
+A FIAPOS também permite a venda de moldes e receitas, voltados para outros artesãos. O artista responsável deve especificar se o molde é licenciado para uso pessoal ou para produção comercial.
+
+3. Encomendas personalizadas
+
+Regras gerais para encomendas
+
+As encomendas sempre devem ter pagamento parcial antes do início da produção. Cabe ao artesão delimitar a porcentagem do valor total, e o restante do pagamento deve ser realizado na entrega.
+
+Ao iniciar a encomenda, ambas as partes afirmam concordar com o valor, o prazo estimado, a descrição da peça e as demais observações estabelecidas.
+
+Alterações solicitadas após o início da encomenda podem envolver o prazo e detalhes do modelo, como tamanho, cor, material, entre outros. O cliente deve estar ciente de que alterações podem gerar cobranças adicionais.
+
+Uma alteração solicitada pelo cliente é considerada substancial quando modifica significativamente características já aprovadas da encomenda, como a técnica de produção, o tamanho, a estrutura, a quantidade, os materiais principais, a complexidade ou o prazo de produção. Alterações substanciais podem exigir uma nova proposta de preço e prazo, e o artesão não é obrigado a aceitá-las.
+
+Caso o cliente não aceite a nova proposta decorrente de uma alteração substancial, o pedido poderá ser cancelado e será analisado conforme o estágio da produção e os custos já incorridos. O manual não estabelece que o artesão possa ficar automaticamente com todo o pagamento inicial. Eventuais descontos ou reembolsos devem considerar os custos aplicáveis e a análise administrativa do caso.
+
+Caso o artesão solicite o cancelamento da encomenda, o cliente é integralmente reembolsado, salvo em casos de violação por parte do cliente, como agressão verbal ou demanda por múltiplas alterações. O artesão pode recorrer à plataforma. O artesão também pode delegar a continuação da encomenda a outro artesão, desde que arque com os custos de entrega ao outro artista e o cliente concorde com a mudança.
+
+Qualquer comunicação realizada sem o uso do canal de comunicação da plataforma não pode ser incluída nas análises da plataforma no caso de disputas.
+
+Modalidades de encomenda
+
+A encomenda pode ser realizada a partir de um modelo ou molde do próprio artesão, por uma proposta idealizada pelo cliente ou a partir de uma referência fornecida pelo cliente. Na modalidade por proposta ou ideia, a FIAPOS identifica artesãos compatíveis com a solicitação, e a continuidade depende da aceitação de algum artesão.
+
+Fluxo completo da encomenda pela modalidade: Proposta do Cliente
+
+O fluxo completo começa quando o cliente cria uma solicitação. Em seguida, a plataforma identifica artesãos compatíveis e o cliente escolhe um ou mais artesãos para receber a solicitação. O artesão analisa a solicitação e envia uma proposta, que é analisada pelo cliente. Quando o cliente aceita uma proposta, realiza o pagamento da entrada e a produção é iniciada. Durante a produção, o artesão atualiza o progresso e o cliente aprova as etapas. Após a finalização do produto, o cliente realiza o pagamento restante, o produto é entregue e o pedido é concluído. As mensagens ficam vinculadas ao pedido.
+
+Fluxo completo da encomenda pela modalidade: Peça personalizada a partir de molde
+O fluxo começa quando o cliente entra na loja virtual do artesão e encontra um molde de peça oferecido que o agrade. O cliente é encaminhado a uma conversa com o artesão, onde deve informar como deseja encomendar sua peça. O artesão escolhe aceitar ou não a encomenda. Durante a produção, o artesão atualiza o progresso e o cliente aprova as etapas. Esta etapa exige menos fases de atualização de progresso, já que o cliente já está ciente do possível resultado final baseando-se no anúncio na plataforma. Após a finalização do produto, o cliente realiza o pagamento restante, o produto é entregue e o pedido é concluído. As mensagens ficam vinculadas ao pedido. 
+
+Fluxo completo da venda de peça pronta
+O fluxo começa quando o cliente entra na loja virtual do artesão e encontra uma peça finalizada anunciada. O cliente realiza o pagamento de forma integral. É possível contactar ou não o artesão responsável para esclarecimento de eventuais dúvidas. O produto é entregue e o pedido é concluído.
+
+4. Regras para artesãos
+
+O artesão é responsável por seu perfil profissional na plataforma e deve informar corretamente suas habilidades. Deve estar ciente de que só deve aceitar trabalhos que consiga executar.
+
+A venda de produtos desenvolvidos a partir da receita de outro artista protegida por direitos autorais é proibida. O artesão só pode vender produtos autorais, produtos desenvolvidos a partir de designs que aceitam reprodução comercial ou solicitar permissão para o uso da receita.
+
+O artesão é responsável por atualizar o progresso das encomendas e solicitar a aprovação do cliente. Também deve zelar para não alterar unilateralmente os dados de uma encomenda sem a aprovação do cliente.
+
+A desistência de uma encomenda deve ter justificativa, como impossibilidade técnica, indisponibilidade, problema de saúde inesperado ou tratamento negativo do cliente. Múltiplas desistências sem justificativas válidas podem acarretar penalidades ao artesão.
+
+Deixar de responder a um cliente por 72 horas marca desistência da encomenda.
+
+É proibido cobrar taxas por fora da plataforma ou solicitar pagamento diretamente ao cliente. A plataforma impede marcar a finalização de uma encomenda sem a presença de pagamento.
+
+A divisão financeira padrão estabelece que 80% do valor líquido pertence ao artesão e 20% corresponde à participação da plataforma.
+
+A plataforma não proíbe a utilização de imagens de referência, porém o artesão deve indicar quando não é o autor de determinada peça, sendo apenas reprodutor, e deve ser responsável por averiguar se possui o direito de reprodução comercial sobre a peça.
+
+5. Regras para clientes
+
+O cliente tem o direito de acompanhar o progresso da encomenda e esclarecer dúvidas com o artesão por meio do serviço de mensagens.
+
+Em caso de desistência de uma encomenda após o seu início, o cliente está sujeito a reembolso parcial devido ao custo de material adquirido e ao tempo já empregado na produção.
+
+O cliente pode aprovar ou reprovar mudanças e sugestões. Também pode modificar a ideia inicial do projeto apenas com a permissão do artesão, podendo ou não estar sujeito a taxas.
+
+6. Devoluções, trocas e melhorias
+
+Produtos de pronta-entrega
+
+Produtos de pronta-entrega podem ser devolvidos em até 7 dias após o recebimento. Para isso, não podem apresentar manchas, sujeiras, odores, fios puxados e soltos, cortes, rasgos, deformações ou outros sinais de avarias.
+
+Produtos de encomendas personalizadas
+
+Produtos de encomendas personalizadas não podem ser trocados quando a alegação for simplesmente arrependimento em relação à cor, ao tamanho ou a outras características aprovadas durante a produção. A plataforma, entretanto, avalia casos de defeitos, comprovação de baixa qualidade do produto, divergência significativa em relação ao projeto aprovado e erro de produção.
+
+Quando o cliente recebe uma encomenda personalizada e alega que uma característica visual, como cor, tonalidade, estampa ou acabamento, diverge significativamente da proposta aprovada, a situação poderá ser analisada pela plataforma. A simples preferência pessoal do cliente por outra tonalidade não caracteriza automaticamente erro de produção.
+
+Para solicitar uma reclamação, o cliente deve contatar a plataforma, informar se deseja melhoria, devolução ou refazer uma nova encomenda e aguardar a análise. A plataforma não se responsabiliza pelo processo ocorrido entre comunicações privadas realizadas entre as partes. O representante da FIAPOS responsável pelo caso deve entrar em contato com o artesão para dar continuidade ao processo.
+
+7. Reparos
+
+O cliente pode visualizar a oferta de reparos próxima à sua localização. Ao iniciar uma solicitação de reparo, deve enviar fotos, informar a peça, o problema e a preferência de prazo. O artesão em contato deve aprovar a proposta para que o serviço tenha início.
+
+Os reparos podem incluir conserto de costura, substituição de parte da peça, reparo de rasgos, correção de acabamento e ajustes.
+
+8. Cadastro de artesãos
+
+Cadastro inicial
+
+Qualquer pessoa interessada em vender produtos ou oferecer serviços artesanais pode solicitar cadastro como artesão na FIAPOS. O cadastro inicial deve solicitar apenas as informações necessárias para confirmar a identidade e compreender o trabalho do artesão. A FIAPOS não exige formação profissional, certificado ou experiência profissional formal para o cadastro. O objetivo do processo é verificar a autenticidade do perfil e reduzir fraudes, e não avaliar o artesão com base em critérios artísticos subjetivos.
+
+A análise verifica principalmente a existência de um perfil coerente, a autenticidade aparente das imagens do portfólio, a correspondência entre as técnicas declaradas e os trabalhos apresentados, indícios de uso indevido de imagens de terceiros e possíveis sinais de fraude ou falsidade de identidade.
+
+As imagens utilizadas no portfólio devem representar trabalhos próprios, trabalhos produzidos pelo artesão com autorização para divulgação ou trabalhos de terceiros claramente identificados quando utilizados apenas como referência.
+
+Cadastro Provisório
+
+Para evitar que o processo seja excessivamente demorado, um novo artesão pode receber o status Cadastro Provisório após a análise inicial. O Cadastro Provisório permite criar a loja, publicar um número limitado de produtos, receber solicitações de encomenda, enviar propostas, utilizar a comunicação interna e participar normalmente da plataforma.
+
+Durante esse período, algumas funções podem possuir limites menores, como limite inicial de produtos publicados, limite de encomendas simultâneas ou impossibilidade de utilizar determinados recursos avançados da plataforma.
+
+9. Responsabilidade e atuação da plataforma
+
+A FIAPOS atua como intermediadora e fornecedora de infraestrutura digital. A plataforma fornece mecanismos para descoberta, comunicação, seleção de artesãos, negociação, pagamento, acompanhamento, aprovação, entrega, avaliação e suporte.
+
+A FIAPOS é responsável por avaliar quando devoluções, trocas e reembolsos podem ser aplicados. Também pode intervir em discordâncias entre cliente e artesão, suspeitas de fraudes, descumprimento de prazos, uso de violência ou envio de imagens inadequadas dentro do contexto da plataforma.
+
+Ao encontrar desentendimentos graves na relação artesão-cliente, a plataforma indica contactar o suporte.
+
+A plataforma também pode aprovar o cadastramento de artesãos, revisar produtos, responder a chamados de clientes e artesãos relacionados a dúvidas sobre pagamentos, pedidos, devoluções, contatos e conflitos, além de avaliar casos de plágio e conteúdo copiado.
+
+10. Entrega
+
+A entrega pode ocorrer por serviço de logística, transportadora, retirada em ponto autorizado ou retirada diretamente com o artesão, quando permitido.
+
+11. Avaliações
+
+Depois da conclusão do pedido, o cliente pode avaliar a qualidade, o cumprimento do prazo, a comunicação, a correspondência com a proposta e a experiência geral.
+
+O artesão também pode avaliar o cliente quanto ao processo da encomenda, considerando a clareza das informações, o cumprimento dos pagamentos, o cumprimento dos prazos de aprovação e a comunicação.
+
+12. Funcionamento do FioBot
+
+O FioBot é o assistente da FIAPOS. Ele atende clientes e artesãos e responde exclusivamente sobre as regras, produtos, serviços, funcionalidades e procedimentos descritos neste manual.
+
+O FioBot não inventa informações, não faz suposições, não cria regras que não estejam no manual, não afirma que uma funcionalidade existe quando ela não está descrita e deve informar quando não possuir determinada informação.
+
+Quando uma informação não estiver disponível, o FioBot deve responder exatamente: “Não tenho essa informação no conhecimento interno da FIAPOS.”
+
+O FioBot não deve utilizar conhecimento externo para preencher lacunas do manual.
